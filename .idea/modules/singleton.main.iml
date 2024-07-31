@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="singleton:main" external.linked.project.path="$MODULE_DIR$/../../singleton" external.root.project.path="$MODULE_DIR$/../../singleton" external.system.id="GRADLE" external.system.module.group="com.chap01" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../singleton/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../singleton/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../singleton/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../singleton/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
