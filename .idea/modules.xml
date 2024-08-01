@@ -3,9 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CS.iml" filepath="$PROJECT_DIR$/.idea/CS.iml" />
-      <module fileurl="file://$PROJECT_DIR$/designPattern.iml" filepath="$PROJECT_DIR$/designPattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/singleton.main.iml" filepath="$PROJECT_DIR$/.idea/modules/singleton.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/singleton.test.iml" filepath="$PROJECT_DIR$/.idea/modules/singleton.test.iml" />
     </modules>
   </component>
 </project>
