@@ -1,4 +1,4 @@
-package com.chap01.singleton;
+package com.chap01.creation.singleton;
 
 public class Application {
     public static void main(String[] args) {
